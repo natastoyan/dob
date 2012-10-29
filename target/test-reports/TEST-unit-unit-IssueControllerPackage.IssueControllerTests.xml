@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="1" hostname="nata-PC" name="IssueControllerPackage.IssueControllerTests" tests="1" time="1.567" timestamp="2012-10-16T10:06:42">
+  <properties />
+  <testcase classname="IssueControllerPackage.IssueControllerTests" name="testSomething" time="1.412">
+    <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at IssueControllerPackage.IssueControllerTests.testSomething(IssueControllerTests.groovy:15)
+</failure>
+  </testcase>
+  <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+  <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+</testsuite>

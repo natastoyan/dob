@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="1" hostname="nata-PC" name="PrivelegePackage.PrivilegeTests" tests="1" time="0.322" timestamp="2012-10-16T10:06:45">
+  <properties />
+  <testcase classname="PrivelegePackage.PrivilegeTests" name="testSomething" time="0.102">
+    <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at PrivelegePackage.PrivilegeTests.testSomething(PrivilegeTests.groovy:15)
+</failure>
+  </testcase>
+  <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+  <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+</testsuite>

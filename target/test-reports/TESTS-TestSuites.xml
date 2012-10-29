@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="1" hostname="nata-PC" id="0" name="CommentTests" package="CommentPackage" tests="1" time="1.086" timestamp="2012-10-16T10:06:40">
+      <properties />
+
+      <testcase classname="CommentPackage.CommentTests" name="testSomething" time="0.748">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at CommentPackage.CommentTests.testSomething(CommentTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="nata-PC" id="1" name="HistoryTests" package="HistoryPackage" tests="1" time="0.574" timestamp="2012-10-16T10:06:41">
+      <properties />
+
+      <testcase classname="HistoryPackage.HistoryTests" name="testSomething" time="0.098">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at HistoryPackage.HistoryTests.testSomething(HistoryTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="nata-PC" id="2" name="IssueControllerTests" package="IssueControllerPackage" tests="1" time="1.567" timestamp="2012-10-16T10:06:42">
+      <properties />
+
+      <testcase classname="IssueControllerPackage.IssueControllerTests" name="testSomething" time="1.412">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at IssueControllerPackage.IssueControllerTests.testSomething(IssueControllerTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="nata-PC" id="3" name="IssueTests" package="IssuePackage" tests="1" time="0.433" timestamp="2012-10-16T10:06:43">
+      <properties />
+
+      <testcase classname="IssuePackage.IssueTests" name="testSomething" time="0.273">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at IssuePackage.IssueTests.testSomething(IssueTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="nata-PC" id="4" name="IssueStatusTests" package="IssueStatusPackage" tests="1" time="0.251" timestamp="2012-10-16T10:06:44">
+      <properties />
+
+      <testcase classname="IssueStatusPackage.IssueStatusTests" name="testSomething" time="0.084">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at IssueStatusPackage.IssueStatusTests.testSomething(IssueStatusTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="nata-PC" id="5" name="IssueTypeTests" package="IssueTypePackage" tests="1" time="0.236" timestamp="2012-10-16T10:06:44">
+      <properties />
+
+      <testcase classname="IssueTypePackage.IssueTypeTests" name="testSomething" time="0.085">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at IssueTypePackage.IssueTypeTests.testSomething(IssueTypeTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="nata-PC" id="6" name="MemberTests" package="MemberPackage" tests="1" time="0.489" timestamp="2012-10-16T10:06:44">
+      <properties />
+
+      <testcase classname="MemberPackage.MemberTests" name="testSomething" time="0.171">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at MemberPackage.MemberTests.testSomething(MemberTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="nata-PC" id="7" name="PrivilegeTests" package="PrivelegePackage" tests="1" time="0.322" timestamp="2012-10-16T10:06:45">
+      <properties />
+
+      <testcase classname="PrivelegePackage.PrivilegeTests" name="testSomething" time="0.102">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at PrivelegePackage.PrivilegeTests.testSomething(PrivilegeTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="nata-PC" id="8" name="ProjectControllerTests" package="ProjectControllerPackage" tests="1" time="0.422" timestamp="2012-10-16T10:06:45">
+      <properties />
+
+      <testcase classname="ProjectControllerPackage.ProjectControllerTests" name="testSomething" time="0.286">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at ProjectControllerPackage.ProjectControllerTests.testSomething(ProjectControllerTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="nata-PC" id="9" name="ProjectTests" package="ProjectPackage" tests="1" time="0.336" timestamp="2012-10-16T10:06:46">
+      <properties />
+
+      <testcase classname="ProjectPackage.ProjectTests" name="testSomething" time="0.089">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at ProjectPackage.ProjectTests.testSomething(ProjectTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="nata-PC" id="10" name="RoleControllerTests" package="RoleControllerPackage" tests="1" time="0.42" timestamp="2012-10-16T10:06:46">
+      <properties />
+
+      <testcase classname="RoleControllerPackage.RoleControllerTests" name="testSomething" time="0.276">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at RoleControllerPackage.RoleControllerTests.testSomething(RoleControllerTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="nata-PC" id="11" name="RoleTests" package="RolePackage" tests="1" time="0.251" timestamp="2012-10-16T10:06:46">
+      <properties />
+
+      <testcase classname="RolePackage.RoleTests" name="testSomething" time="0.074">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at RolePackage.RoleTests.testSomething(RoleTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="nata-PC" id="12" name="UserControllerTests" package="UserControllerPackage" tests="1" time="0.473" timestamp="2012-10-16T10:06:47">
+      <properties />
+
+      <testcase classname="UserControllerPackage.UserControllerTests" name="testSomething" time="0.293">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at UserControllerPackage.UserControllerTests.testSomething(UserControllerTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="nata-PC" id="13" name="UserTests" package="UserPackage" tests="1" time="0.094" timestamp="2012-10-16T10:06:47">
+      <properties />
+
+      <testcase classname="UserPackage.UserTests" name="testSomething" time="0.091">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at UserPackage.UserTests.testSomething(UserTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
